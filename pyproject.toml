@@ -13,6 +13,8 @@ duckduckgo-search = "^3.8.1"
 pypdf = "^3.9.1"
 wikipedia = "^1.4.0"
 python-dotenv = "^1.0.0"
+tiktoken = "^0.4.0"
+faiss-cpu = "^1.7.4"
 
 
 [tool.poetry.group.dev.dependencies]
